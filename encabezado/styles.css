@@ -1,0 +1,33 @@
+.encabezado {
+  width: 800px;
+  height: 150px;
+  border: solid;
+  position: relative;
+}
+
+.logotipo {
+  width: 250px;
+  height: 50px;
+  border: solid;
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.navegacion-superior {
+  width: 100px;
+  height: 20px;
+  border: solid;
+  margin-top: -70px;
+  margin-left: 675px;
+  padding: 5px;
+}
+
+.menu {
+  width: 550px;
+  height: 20px;
+  border: solid;
+  margin-top: 50px;
+  margin-left: 225px;
+  padding: 5px;
+}

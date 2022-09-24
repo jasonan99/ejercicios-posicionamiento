@@ -1,0 +1,33 @@
+.box {
+  width: 80%;
+  margin: 0px auto;
+}
+
+.little-box {
+  width: 25%;
+  height: 200px;
+  border: solid;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 500px;
+}
+
+.box1 {
+  position: absolute;
+  margin-left: 0%;
+}
+
+.box2 {
+  position: absolute;
+  margin-left: 30%;
+}
+
+.box3 {
+  position: absolute;
+  margin-left: 60%;
+}
+
+.box4 {
+  position: absolute;
+  margin-left: 90%;
+}
